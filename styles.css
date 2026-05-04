@@ -17,3 +17,10 @@ body
 {
     display: grid;
 }
+.container .card 
+{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    background: rgba(45,45,45,1);
+}
