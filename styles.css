@@ -27,3 +27,10 @@ body
     background: rgba(45,45,45,1);
     overflow:hidden;
 }
+
+.container .card::before
+{
+content: '';
+position: absolute;
+
+}
