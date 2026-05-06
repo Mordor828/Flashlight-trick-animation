@@ -47,3 +47,11 @@ transition: 0.5s;
 opacity: 1;
 
 }
+
+
+.container .card::after
+{
+content: '';
+position: absolute;
+
+}
