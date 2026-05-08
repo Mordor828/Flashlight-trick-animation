@@ -34,7 +34,7 @@ body
 content: '';
 position: absolute;
 top: var(--y);
-top: var(--x);
+left: var(--x);
 transform: translate(-50%,-50%);
 background: radial-gradient(var(--clr), transparent, 
 transparent);
