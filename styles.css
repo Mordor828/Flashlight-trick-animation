@@ -33,6 +33,8 @@ body
 {
 content: '';
 position: absolute;
+top: var(--y);
+top: var(--x);
 background: radial-gradient(var(--clr), transparent, 
 transparent);
 width:300px;
